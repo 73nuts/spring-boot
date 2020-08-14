@@ -1,0 +1,29 @@
+server:
+  port: 8081
+spring:
+  application:
+    name: item-service
+  datasource:
+    url: jdbc:mysql:///heyu?useUnicode=true&characterEncoding=utf8
+    username: root
+    password:
+    hikari:
+      max-lifetime: 28830000 # 一个连接的生命时长（毫秒），超时而且没被使用则被释放
+      maximum-pool-size: 9 # 连接池中允许的最大连接数
+    driver-class-name: com.mysql.jdbc.Driver
+  rabbitmq:
+    host: 192.168.80.128
+    virtual-host: /heyu
+    username: heyu
+    password: root
+    template:
+      exchange: HEYU.ITEM.EXCHANGE
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+  instance:
+    lease-renewal-interval-in-seconds: 5 # 5秒钟发送一次心跳
+    lease-expiration-duration-in-seconds: 10 # 10秒不发送就过期
+mybatis:
+  type-aliases-package: com.heyu.item.pojo

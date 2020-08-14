@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-auth/heyu-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-auth/heyu-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-auth/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-goods-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-item/heyu-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-item/heyu-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-item/heyu-item-service/src/main/resources/application.yml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-item/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-item/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-order/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-order/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-user/heyu-uesr-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-user/heyu-user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-user/heyu-user-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-user/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/heyu-user/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

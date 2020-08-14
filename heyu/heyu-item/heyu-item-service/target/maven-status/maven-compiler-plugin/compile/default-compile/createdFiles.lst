@@ -1,0 +1,17 @@
+com\heyu\item\mapper\BrandMapper.class
+com\heyu\item\mapper\SpecParamMapper.class
+com\heyu\item\mapper\SpuDetailMapper.class
+com\heyu\item\mapper\CategoryMapper.class
+com\heyu\HeyUItemApplication.class
+com\heyu\item\service\BrandService.class
+com\heyu\item\mapper\SpuMapper.class
+com\heyu\item\controller\CategoryController.class
+com\heyu\item\controller\BrandController.class
+com\heyu\item\controller\SpecificationController.class
+com\heyu\item\controller\GoodsController.class
+com\heyu\item\mapper\SpecGroupMapper.class
+com\heyu\item\mapper\StockMapper.class
+com\heyu\item\service\GoodsService.class
+com\heyu\item\service\SpecificationService.class
+com\heyu\item\mapper\SkuMapper.class
+com\heyu\item\service\CategoryService.class

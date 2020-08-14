@@ -1,0 +1,9 @@
+com\heyu\goods\controller\GoodsController.class
+com\heyu\goods\service\GoodsHtmlService.class
+com\heyu\goods\client\BrandClient.class
+com\heyu\goods\client\GoodsClient.class
+com\heyu\goods\client\CategoryClient.class
+com\heyu\goods\service\GoodsService.class
+com\heyu\goods\client\SpecificationClient.class
+com\heyu\goods\listener\GoodsListener.class
+com\heyu\HeyUGoodsWebApplication.class

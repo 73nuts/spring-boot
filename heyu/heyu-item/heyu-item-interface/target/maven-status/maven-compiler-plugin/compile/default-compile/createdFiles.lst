@@ -1,0 +1,13 @@
+com\heyu\item\pojo\Sku.class
+com\heyu\item\pojo\Stock.class
+com\heyu\item\pojo\SpecGroup.class
+com\heyu\item\pojo\SpuDetail.class
+com\heyu\item\api\BrandApi.class
+com\heyu\item\pojo\Category.class
+com\heyu\item\bo\SpuBo.class
+com\heyu\item\api\CategoryApi.class
+com\heyu\item\pojo\Brand.class
+com\heyu\item\api\SpecificationApi.class
+com\heyu\item\api\GoodsApi.class
+com\heyu\item\pojo\SpecParam.class
+com\heyu\item\pojo\Spu.class

@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "heyu.sms",
+      "type": "com.heyu.sms.comfig.SmsProperties",
+      "sourceType": "com.heyu.sms.comfig.SmsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "heyu.sms.access-key-id",
+      "type": "java.lang.String",
+      "sourceType": "com.heyu.sms.comfig.SmsProperties"
+    },
+    {
+      "name": "heyu.sms.access-key-secret",
+      "type": "java.lang.String",
+      "sourceType": "com.heyu.sms.comfig.SmsProperties"
+    },
+    {
+      "name": "heyu.sms.sign-name",
+      "type": "java.lang.String",
+      "sourceType": "com.heyu.sms.comfig.SmsProperties"
+    },
+    {
+      "name": "heyu.sms.verify-code-template",
+      "type": "java.lang.String",
+      "sourceType": "com.heyu.sms.comfig.SmsProperties"
+    }
+  ],
+  "hints": []
+}

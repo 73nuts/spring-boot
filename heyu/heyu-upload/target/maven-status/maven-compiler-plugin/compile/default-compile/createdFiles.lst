@@ -1,0 +1,5 @@
+com\heyu\upload\config\HeyUCorsConfiguration.class
+com\heyu\upload\config\FastClientImporter.class
+com\heyu\upload\service\UploadService.class
+com\heyu\upload\controller\UploadController.class
+com\heyu\HeyUUploadApplication.class

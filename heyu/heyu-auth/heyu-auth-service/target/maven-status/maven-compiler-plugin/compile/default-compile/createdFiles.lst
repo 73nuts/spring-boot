@@ -1,0 +1,5 @@
+com\heyu\auth\client\UserClient.class
+com\heyu\auth\controller\AuthController.class
+com\heyu\HeyUAuthApplication.class
+com\heyu\auth\config\JwtProperties.class
+com\heyu\auth\service\AuthService.class

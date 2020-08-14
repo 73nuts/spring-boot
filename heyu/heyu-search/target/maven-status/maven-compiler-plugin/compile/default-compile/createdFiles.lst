@@ -1,0 +1,14 @@
+com\heyu\search\repository\GoodsRepository.class
+com\heyu\search\controller\SearchController.class
+com\heyu\search\listener\GoodsListener.class
+com\heyu\search\client\GoodsClient.class
+com\heyu\search\pojo\SearchResult.class
+com\heyu\HeyUSearchApplication.class
+com\heyu\search\service\SearchService$1.class
+com\heyu\search\client\BrandClient.class
+com\heyu\search\pojo\Goods.class
+com\heyu\search\service\SearchService.class
+com\heyu\search\client\SpecificationClient.class
+com\heyu\search\client\CategoryClient.class
+com\heyu\search\service\SearchService$2.class
+com\heyu\search\pojo\SearchRequest.class
