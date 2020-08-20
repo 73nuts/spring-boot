@@ -10,7 +10,7 @@ spring:
     virtual-host: /heyu
 heyu:
   sms:
-    accessKeyId: LTAI4GEenEntLmDZXa3AZ642 # AccessKeyId
-    accessKeySecret: nqmVNFGzZwGFOfKJx7UJJCzANTgxWA # AccessKeySecret
-    signName: 黑优商城 # 签名名称
-    verifyCodeTemplate: SMS_198420020 # 模板名称
+    accessKeyId: # AccessKeyId
+    accessKeySecret:  # AccessKeySecret
+    signName:  # 签名名称
+    verifyCodeTemplate:  # 模板名称
